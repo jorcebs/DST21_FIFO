@@ -1,0 +1,10 @@
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Colas FIFO\Colas FIFO\bin\Debug\Colas FIFO.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\bin\Debug\Colas FIFO.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\bin\Debug\Colas FIFO.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\bin\Debug\Colas FIFO.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\obj\Debug\Colas_FIFO.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\obj\Debug\Colas_FIFO.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\11. Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.pdb
